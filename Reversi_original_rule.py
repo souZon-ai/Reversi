@@ -5,7 +5,7 @@ import sys
 pygame.init()
 
 CELL_SIZE = 60 #1マスの大きさ.
-BOARD_SIZE = 10 #８マス/
+BOARD_SIZE = 10 #10マス/
 WINDOW_SIZE = CELL_SIZE * BOARD_SIZE #全体の大きさ
 INFO_HEIGHT = 60
 
